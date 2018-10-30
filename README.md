@@ -14,5 +14,6 @@ RetroThemez is a collaborative repo for agile teams around the world to create a
 - Hot tip! Throw in some themed music to add a little flair
 
 # Creators
-Christian Stivactas (Iteration Manager/Scrum Master) - christianstivactas.com
+Christian Stivactas (Iteration Manager/Scrum Master) - www.christianstivactas.com
+
 Heather Mason-Videc (Iteration Manager/Scrum Master) - www.linkedin.com/in/heather-mason-videc-6971b292/
