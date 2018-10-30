@@ -1,5 +1,5 @@
 # RetroThemez
-RetroThemez is a collaborative repo for web development teams around the world to create and share different retrospective themes to make that retro just a little bit more less repetitive. 
+RetroThemez is a collaborative repo for agile teams around the world to create and share different retrospective themes to make that retro just a little bit more less repetitive. 
 
 # How to contribute
 - Create a Retro Theme
